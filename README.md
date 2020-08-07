@@ -6,3 +6,5 @@ To win the game:
 Connect 4 pieces horizontally
 or Connect 4 pieces vertically
 or Connect 4 pieces diagonally
+
+![Screenshot of game play]()
